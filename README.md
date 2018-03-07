@@ -1,0 +1,1 @@
+Excersises from frontend lesson. Issues contained in this repository are Bootstrap, jQuery, CSS3, HTML5. 
